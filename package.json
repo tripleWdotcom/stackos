@@ -4,8 +4,10 @@
   "description": "Simple OS Info -Demo module-testing yarn udemy course",
   "main": "stackos.js",
   "repository": "https://github.com/tripleWdotcom/stackos",
+  "bugs": "https://github.com/tripleWdotcom/stackos/issues",
   "author": "Me",
   "license": "MIT",
+  "keywords": ["os", "demo","yarn course"],
   "dependencies": {
     "chalk": "~4.1.1"
   }
