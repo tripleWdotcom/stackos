@@ -1,0 +1,12 @@
+{
+  "name": "stackos",
+  "version": "1.0.0",
+  "description": "Simple OS Info -Demo module-testing yarn udemy course",
+  "main": "stackos.js",
+  "repository": "https://github.com/tripleWdotcom/stackos",
+  "author": "Me",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "~4.1.1"
+  }
+}
